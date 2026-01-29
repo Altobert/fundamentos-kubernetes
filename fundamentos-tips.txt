@@ -1,0 +1,24 @@
+Comienzo de curso fundamentos de kubernates
+
+Course Learning Objectives, Timing, and Assessments
+By the end of this course, you will learn the following:
+
+The history and evolution of Kubernetes
+Its high-level architecture and components
+The API, the most important resources that make the API, and how to use them
+How to deploy and manage an application
+Some upcoming features that will boost your productivity
+You can expect to spend approximately 30-35 hours completing this course. 
+You have access to this course for 12 months from the date of registration or until your subscription expires (whichever comes first).
+
+This course is entirely self-paced, with no fixed schedule for completing the material. 
+You can complete the course at your own pace, and you will always be returned to exactly where you left off when you return to start a new session.
+However, we suggest that you avoid long breaks between periods of work, 
+as learning will be faster and content retention will improve.
+
+At the end of each chapter, you will find a series of knowledge check questions. 
+These questions were designed with one main goal in mind: 
+to help you better comprehend the course content and reinforce what you have learned. 
+The end-of-chapter knowledge check questions are not graded. 
+However, at the end of the course, you will need to complete a final exam and achieve a score of 70%
+or higher to complete the course.
